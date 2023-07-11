@@ -1,0 +1,47 @@
+.nav{
+  background-color: aqua;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+  align-items: center;
+  gap:  3rem;
+  font-size: 20px;
+  color: brown;
+  
+}
+:link{
+  text-decoration: none;
+ 
+}
+
+.dis{
+  background-color: orange;
+  height: 100px;
+  text-align: center;
+}
+.home{
+  background-color:magenta;
+  height: 100px;
+  text-align: center;
+}
+
+
+.about{
+  background-color: blueviolet;
+  height: 100px;
+  text-align: center;
+}
+.login{
+  background-color:chartreuse;
+  height: 100px;
+  text-align: center;
+}
+.profile{
+  background-color:goldenrod;
+  height: 100px;
+  text-align: center;
+}
+.err{
+  text-align: center;
+}
